@@ -402,7 +402,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Px7PWnoKuNarNlu0IM08-31" value="User" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="171" y="130" width="251" height="280" as="geometry" />
+          <mxGeometry x="170" y="130" width="251" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Px7PWnoKuNarNlu0IM08-32" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=19;" parent="Px7PWnoKuNarNlu0IM08-31" vertex="1">
           <mxGeometry y="30" width="251" height="30" as="geometry" />
@@ -503,7 +503,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gf7HBxnVhsHJ7IlLZwmY-3" value="Role" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=19;" vertex="1" parent="gf7HBxnVhsHJ7IlLZwmY-1">
+        <mxCell id="gf7HBxnVhsHJ7IlLZwmY-3" value="IsSocialClub" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=19;" vertex="1" parent="gf7HBxnVhsHJ7IlLZwmY-1">
           <mxGeometry x="30" width="221" height="30" as="geometry">
             <mxRectangle width="221" height="30" as="alternateBounds" />
           </mxGeometry>
